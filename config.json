@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenupdate",
+        "uuid": 25920954,
+        "checksum": "q9e0vn"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
